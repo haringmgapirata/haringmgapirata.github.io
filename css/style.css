@@ -319,6 +319,8 @@ header.sticky{
 	border-radius: 55px;
     width: 95px;
     height: 37px;
+	transition-duration: 0.4s;
+	cursor: pointer;
 }
 
 #contact{
